@@ -47,3 +47,5 @@ console.log(rectangle.area) // 12
 rectangle.height = 4
 console.log(rectangle.area) // 16
 ```
+
+*I might have used properties when I should of used arguments, Sorry*
